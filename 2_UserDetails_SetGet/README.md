@@ -1,4 +1,4 @@
-cmd>truffle development
+cmd>truffle development <br>
 .
 .
 .
